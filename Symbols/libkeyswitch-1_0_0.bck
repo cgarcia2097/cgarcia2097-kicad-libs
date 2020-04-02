@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RESISTORAXIAL-0.3
+D Generic Resistor Package
+K PROD_ID:
+$ENDCMP
+#
+$CMP SPARKFUN_PRO_MICRO
+D SparkFun Pro Micro  Atmega32U4 compatible footprint. <b>SparkFun Products:</b><ul><li><a href= https://www.sparkfun.com/products/12587 >3.3V/8MHz</a></li><li><a href= https://www.sparkfun.com/products/12640 >5V/16MHz</a></li></ul>
+K PROD_ID:XXX-00000
+$ENDCMP
+#
+#End Doc Library
